@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 
 st.title("Welcome to DSE Exam Predictions")
 
-st.header("Streamlit App by Student Name")
+st.header("Streamlit App by Hello")
 
 from PIL import Image
 st.image(
